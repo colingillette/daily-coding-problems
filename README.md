@@ -31,3 +31,18 @@ Given an array of integers, find the first missing positive integer in linear ti
 For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
 
 > javascript/problem3.js
+
+## Problem 4 - Jane Street
+
+cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first and last element of that pair. For example, car(cons(3, 4)) returns 3, and cdr(cons(3, 4)) returns 4.
+
+Given this implementation of cons:
+
+    def cons(a, b):
+        def pair(f):
+            return f(a, b)
+        return pair
+
+Implement car and cdr.
+
+> python/problem4.py
