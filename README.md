@@ -2,6 +2,8 @@
 
 Below you will find each question that I work on in order. All credit for finding these questions goes to dailycodingproblems.com, which you should definitely subscribe to.
 
+**Note:** These problems are numbered according to the order I did them, not necessarily the order they were distributed.
+
 ## Problem 1 - Google
 
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
