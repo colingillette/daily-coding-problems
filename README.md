@@ -54,3 +54,11 @@ Given an array of time intervals (start, end) for classroom lectures (possibly o
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
 > python/problem5.py
+
+## Problem 6 - Facebook
+
+Given a array of numbers representing the stock prices of a company in chronological order, write a function that calculates the maximum profit you could have made from buying and selling that stock once. You must buy before you can sell it.
+
+For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could buy the stock at 5 dollars and sell it at 10 dollars.
+
+> python/problem6.py
